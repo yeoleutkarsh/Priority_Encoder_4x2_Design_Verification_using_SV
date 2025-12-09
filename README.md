@@ -46,3 +46,10 @@ V  = a3 + a2 + a1 + a0
   10. **Environment**: env.sv (Instantiates all TB components)
   11. **Testbench:** tb.sv (Implements test scenarios)
   12. **Top-level:** top.sv (Top-level integration of DUT and TB)
+
+## 3) Simulation and Results:
+- QuestaSim simulation confirmed the functionality of the 4x2 priority encoder.
+- Waveforms and assertions verified that outputs y1, y0, and V matched expected results for all input combinations.
+- Scoreboard checks ensured DUT outputs were consistent with expected values.
+- Functional coverage validated that all input scenarios, including corner cases, were exercised.
+- All tests passed, demonstrating correct priority encoding behavior.
