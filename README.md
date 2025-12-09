@@ -19,7 +19,8 @@
   | 1  | x  | x  | x  | 1  | 1  | 1 |
 
 ### Output Equations
-
->   y1 = a3 + a2  
->   y0 = a3 + (~a2 & a1)  
->   V  = a3 + a2 + a1 + a0
+<div align="center">
+y1 = a3 + a2  <br>
+y0 = a3 + (~a2 & a1)  <br>
+V  = a3 + a2 + a1 + a0
+</div>
