@@ -10,6 +10,8 @@
 - **Outputs**: y1, y0 (2-bit binary output).
 - **Valid (V) signal**: Indicates if any input is active.
 
+### Truth Table
+<div align="center">
   | a3 | a2 | a1 | a0 | y1 | y0 | V |
   |----|----|----|----|----|----|---|
   | 0  | 0  | 0  | 0  | 0  | 0  | 0 |
@@ -17,6 +19,7 @@
   | 0  | 0  | 1  | x  | 0  | 1  | 1 |
   | 0  | 1  | x  | x  | 1  | 0  | 1 |
   | 1  | x  | x  | x  | 1  | 1  | 1 |
+  </div>
 
 ### Output Equations
 <div align="center">
