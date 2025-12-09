@@ -1,0 +1,13 @@
+
+`include "pe.sv"
+`include "assertion.sv"
+`include "transaction.sv"
+`include "interface.sv" 
+`include "generator.sv"
+`include "bfm.sv" 
+`include "mon.sv"
+`include "sco.sv"
+`include "cov.sv"
+`include "env.sv"
+`include "tb.sv"
+`include "top.sv"
