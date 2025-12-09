@@ -53,3 +53,18 @@ V  = a3 + a2 + a1 + a0
 - Scoreboard checks ensured DUT outputs were consistent with expected values.
 - Functional coverage validated that all input scenarios, including corner cases, were exercised.
 - All tests passed, demonstrating correct priority encoding behavior.
+
+  ### Transcipt Result :-
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fff054d0-4bfd-40b3-a779-692262a7a187" />
+
+  ### Waveform :-
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa7b4a52-5488-447c-8b2e-45bc9692d234" />
+
+  ### Coverage Result :-
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/87584527-38b2-4177-a74a-9f03a4996c51" />
+
+  ### Assertion Result :-
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/515b134b-5999-4815-a31a-54279fef17c2" />
+
+
+
