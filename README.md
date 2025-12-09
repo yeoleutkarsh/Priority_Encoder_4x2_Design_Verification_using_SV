@@ -20,6 +20,6 @@
 
 ### Output Equations
 
-> y1 = a3 + a2  
-> y0 = a3 + (~a2 & a1)  
-> V  = a3 + a2 + a1 + a0
+>   y1 = a3 + a2  
+>   y0 = a3 + (~a2 & a1)  
+>   V  = a3 + a2 + a1 + a0
