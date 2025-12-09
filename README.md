@@ -18,3 +18,8 @@
   | 0  | 1  | x  | x  | 1  | 0  | 1 |
   | 1  | x  | x  | x  | 1  | 1  | 1 |
 
+### Output Equations
+
+> y1 = a3 + a2  
+> y0 = a3 + (~a2 & a1)  
+> V  = a3 + a2 + a1 + a0
